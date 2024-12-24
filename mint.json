@@ -37,7 +37,8 @@
       "group": "Translator Endpoints",
       "pages": [
         "api-reference/endpoint/translate",
-        "api-reference/endpoint/detect"
+        "api-reference/endpoint/detect",
+        "api-reference/endpoint//support-languages"
       ]
     }
   ],
