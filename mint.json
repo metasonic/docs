@@ -17,13 +17,13 @@
   },
   "topbarCtaButton": {
     "name": "Request Demo",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://www.ibunny.net/"
   },
   "anchors": [
     {
       "name": "Request Demo",
       "icon": "slack",
-      "url": "https://mintlify.com/docs"
+      "url": "https://www.ibunny.net/"
     }
   ],
   "navigation": [
